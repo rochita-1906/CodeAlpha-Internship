@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is CodeAlpha?",
+        "answer": "CodeAlpha is a software development company that provides internship opportunities in areas such as Artificial Intelligence."
+    },
+    {
+        "question": "How many tasks do I need to complete?",
+        "answer": "According to the internship instructions, you need to complete a minimum of two or three tasks from the four tasks provided for your domain."
+    },
+    {
+        "question": "What are the four AI tasks?",
+        "answer": "The four AI tasks are Language Translation Tool, Chatbot for FAQs, Music Generation with AI, and Object Detection and Tracking."
+    },
+    {
+        "question": "Where should I upload my source code?",
+        "answer": "You should upload your complete source code to GitHub in a repository named using the format CodeAlpha_ProjectName."
+    },
+    {
+        "question": "Do I need to post my project on LinkedIn?",
+        "answer": "Yes. The internship instructions ask you to post a video explanation of your project on LinkedIn with the GitHub repository link and tag CodeAlpha."
+    },
+    {
+        "question": "Where do I submit my completed task?",
+        "answer": "Completed tasks must be submitted through the submission form shared in your respective WhatsApp group."
+    },
+    {
+        "question": "What is the deadline for task submission?",
+        "answer": "The task submission period is from September 1, 2026 to September 30, 2026. The last date for submission is September 30, 2026."
+    },
+    {
+        "question": "What technologies can be used for the FAQ chatbot?",
+        "answer": "The task instructions suggest using NLP libraries such as NLTK or SpaCy and matching user questions using techniques such as cosine similarity or intent matching."
+    },
+    {
+        "question": "What is required for the object detection task?",
+        "answer": "The task requires real-time video input using OpenCV, a pre-trained model such as YOLO or Faster R-CNN, object detection with bounding boxes, and object tracking using algorithms such as SORT or Deep SORT."
+    }
+]
